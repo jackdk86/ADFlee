@@ -1,4 +1,4 @@
-! Version: 201708161921
+﻿! Version: 201708161921
 ! Title: lazy
 ! Chinese supplement for the EasyList filters
 ! Last Modified: 16 Aug 2017 19:21 UTC
