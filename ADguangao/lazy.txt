@@ -1,16 +1,11 @@
-[Adblock Plus 2.1]
-! Checksum: 4mXpw31kHywo20zAisvnuQ
-! Version: 201708161821
-! Title: EasyList China
+! Version: 201708161921
+! Title: lazy
 ! Chinese supplement for the EasyList filters
-! Last Modified: 16 Aug 2017 18:21 UTC
-! Expires: 4 days (update frequency)
-! Homepage: http://abpchina.org/forum/
-! License: https://easylist-downloads.adblockplus.org/COPYING
+! Last Modified: 16 Aug 2017 19:21 UTC
+! Expires: 3 days (update frequency)
+! Homepage: https://user.qzone.qq.com
+! License: https://user.qzone.qq.com/309971740/infocenter
 !
-! Please report any unblocked adverts or problems
-! in the forums (http://abpchina.org/forum/)
-! or via e-mail (easylist.china@gmail.com).
 !
 !-----------------------General advert blocking filters-----------------------!
 -880-80-4.jpg
