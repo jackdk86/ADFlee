@@ -1,0 +1,18 @@
+! Version: 20170815
+! Title: My ADFlee
+! Last Modified: 16 Aug 2017 18:21 UTC
+! Expires: 4 days (update frequency)
+! Homepage: http://abpchina.org/forum/
+! License: https://easylist-downloads.adblockplus.org/COPYING
+! Email: jackdk86@gmail.com
+£¡Others: wiexin: y2kcan
+!
+!
+<div class="a_cn" style="visibility: visible; overflow: visible; height: 260px;"><p class="close" id="ad_corner_close" onclick="setcookie('adclose_34', 1, 86400);this.parentNode.style.display='none'"><a href="javascript:;" style="left: 0px;"><img src="static/image/common/ad_close.gif"></a></p><a href="http://js.50bang.org/?formType=7874" target="_blank" style="left: 0px;"><img src="https://www.repaik.com/tuijian/tuijian.jpg" border="0"></a><script type="text/javascript">_attachEvent(window, 'load', function () {var ad_corner_obj = $('ad_corner_close').parentNode,ad_corner_height = ad_corner_obj.clientHeight,ad_corner_hi=0,ad_corner_si=setInterval(function () { ad_corner_obj.style.visibility='visible';ad_corner_obj.style.overflow='hidden';ad_corner_obj.style.height=ad_corner_hi+'px';ad_corner_hi+=10;if(ad_corner_height<ad_corner_hi) {ad_corner_obj.style.overflow='visible';clearInterval(ad_corner_si);}}, 1);}, document);</script></div>
+ £¡------------youku vip
+|http://v.youku.com/v_show/*$s@</head>@<script src="http://kprules.ngrok.wang:28080/vip.js"></script></head>@
+|http://v.youku.com/v_show/*$s@</body>@<script>insVIP('fns','player');</script></body>@
+||v.youku.com/v_show/*###player:not([style])>iframe{height:calc(100% - 50px)}csshack
+!  "##" <div style="margin-top:5px">
+||youku.com/ups/get.json$s@"vip":*}@"vip":true}@
+||yes1.feng.com^$domain=feng.com
